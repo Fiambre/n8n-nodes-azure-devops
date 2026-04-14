@@ -2,6 +2,8 @@
 
 # n8n-nodes-azure-devops
 
+> **Fork** of [SheickBR/n8n-nodes-azure-devops](https://github.com/SheickBR/n8n-nodes-azure-devops) by [Guilherme Tadeu](https://github.com/SheickBR). Maintained by [Fiambre](https://github.com/Fiambre) with bug fixes, dead code cleanup, and compatibility improvements.
+
 This is an n8n community node. It lets you use Azure DevOps in your n8n workflows.
 
 Azure DevOps is a suite of services from Microsoft that provides development and collaboration tools, including Azure Repos, Azure Pipelines, Azure Boards, Azure Test Plans, and Azure Artifacts. This node allows you to automate operations within Azure DevOps.
@@ -90,8 +92,14 @@ In n8n, create new credentials for Azure DevOps and enter your Organization URL 
 
 This node has been validated and tested with n8n version `1.113.3` and later.
 
+## Credits
+
+- Original author: [Guilherme Tadeu (SheickBR)](https://github.com/SheickBR)
+- Maintained by: [Fiambre](https://github.com/Fiambre)
+
 ## Resources
 
+*   [Upstream Repository](https://github.com/SheickBR/n8n-nodes-azure-devops)
 *   [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
 *   [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/)
 *   [Create a Personal Access Token (PAT)](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate)
